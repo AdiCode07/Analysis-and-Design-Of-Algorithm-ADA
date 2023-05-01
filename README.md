@@ -1,1 +1,1 @@
-# Analysis-and-Design-Of-Algorithm-ADA
+# Analysis and Design Of Alogorithm (ADA)
